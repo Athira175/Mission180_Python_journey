@@ -1,0 +1,12 @@
+name=input("enter your name: ")
+age=input("Enter your age:")
+qualification=input("Enter your Qualification:")
+skill=input("Enter your Current Skill:")
+cmpy=input("Enter your Dream company:")
+
+print("\n========MY PROFILE=========")
+print("Name:",name)
+print("Age:",age)
+print("Qualification:",qualification)
+print("Current Skill:",skill)
+print("Dream company:",cmpy)
