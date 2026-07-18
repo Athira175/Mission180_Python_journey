@@ -1,0 +1,6 @@
+name=input("Enter the name:")
+print("Original name:",name)
+print("Upper case:",name.upper())
+print("Lower case:",name.lower())
+print("Title:",name.title())
+print("Lenght:",len(name))
