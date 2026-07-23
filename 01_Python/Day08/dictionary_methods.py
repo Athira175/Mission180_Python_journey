@@ -1,0 +1,14 @@
+student={
+    "name":"Athira",
+    "age":12,
+    "course":"BCA",
+    "City":"kozhikodu"
+    }
+print("KEYS")
+print(student.keys())
+print("VALUES")
+print(student.values())
+print("ITEMS")
+print(student.items())
+print(student.get("name"))
+print(student.get("email"))

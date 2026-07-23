@@ -1,0 +1,12 @@
+students=("Athira","MCA","Kottayam")
+print("TUPLE-use normal brakets,oreded,not cahngable,index used,including duplicates")
+print("STUDENT DETAILS")
+print("Name:",students[0])
+print("Course",students[1])
+print("City:",students[2])
+print("SETS-remove duplicates and use no order,changable,use kerlybrakets,no index")
+skill={"python","SQL","python"}
+skill.add("Django")
+print(skill)
+skill.remove("SQL")
+print(skill)
