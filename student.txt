@@ -1,0 +1,12 @@
+Name=Athira
+Course=MCA
+City=Kottayam
+Age=25
+Name:Athira
+Course:MCA---------------
+Name:Akhila
+Course:BCA
+---------------
+Name:Anila
+Course:Maths
+---------------
